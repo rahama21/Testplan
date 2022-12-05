@@ -1,11 +1,11 @@
 
 
 #  Test Plan : 
-                  The test plan conveys how the test will be
-                  performed. This includes defining test
-                 objectives, test approach, test tools, test
-                   environment, test schedules and team
-                 responsibilities and composition.
+                  The test plan conveys how the test will be performed. This includes defining test objectives, test approach, test tools, test
+                   environment, test schedules and team  responsibilities and composition.
+                 
+                 
+                
 
 # Test plan Template
                 1. Test Plan ID
