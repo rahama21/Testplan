@@ -1,6 +1,5 @@
-# Testplan
 
-#Test plan : 
+#  Test Plan : 
                 The test plan conveys how the test will be
                  performed. This includes defining test
                 objectives, test approach, test tools, test
@@ -46,9 +45,3 @@
 
 <img width="555" alt="Screenshot 2022-12-04 182007" src="https://user-images.githubusercontent.com/32101980/205490914-81f8a500-2359-4ea0-829b-3e80d25bcd78.png">
 <img width="549" alt="Screenshot 2022-12-04 182052" src="https://user-images.githubusercontent.com/32101980/205490920-204f6cb2-b1c6-47f6-aa8f-f96bf3c91ada.png">
-
-
-
-
-
-
