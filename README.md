@@ -1,13 +1,13 @@
 # Testplan
 
-Test plan : 
+#Test plan : 
                 The test plan conveys how the test will be
                  performed. This includes defining test
                 objectives, test approach, test tools, test
                  environment, test schedules and team
                  responsibilities and composition.
 
-Test plan Template
+#Test plan Template
                 1. Test Plan ID
                 2. Introduction
                 3. Test Items
@@ -27,7 +27,7 @@ Test plan Template
                 17. Glossary 
 
 
-Test Plan site name:    https://www.nrbbazaar.com/
+#Test Plan site name:    https://www.nrbbazaar.com/
 
 #ScreenshotofTestplan
 
